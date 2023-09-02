@@ -1,15 +1,15 @@
 {
     "basics": {
-      "name": "Vinayak Maitha",
+      "name": "Vinayak Sanjay Maitha",
       "label": "Student",
       "picture": "https://avatars.githubusercontent.com/u/71830514?v=4",
       "email": "2020kucp1033@iiitkota.ac.in",
       "phone": "+919630802224",
-      "summary": "I'm a student of Indian Institute of Information technology, Kota (India), pursuing my B.tech in Computer Science & Engineering. I am looking forward to learning new tech stacks in web development.",
+      "summary": "I'm a student of Indian Institute of Information Technology, Kota (India), pursuing my B.tech in Computer Science & Engineering. I am looking forward to learning new tech stacks in web development.",
       "location": {
-        "address": "Mumbai",
-        "postalCode": "400067",
-        "city": "Mumbai",
+        "address": "Vijay Nagar",
+        "postalCode": "452010",
+        "city": "Indore",
         "countryCode": " India",
         "region": "Maharashtra"
         },
@@ -27,7 +27,7 @@
         {
           "network": "linkedin",
           "username": "vinayak-maitha-25baaa1b8",
-          "url": "https://www.linkedin.com/in/vinayak-maitha-25baaa1b8/"
+          "url": "https://www.linkedin.com/in/vinayak-sanjay-maitha-25baaa1b8/"
         },
         {
           "network": "Instagram",
